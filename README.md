@@ -1,7 +1,13 @@
 - 👋 Hi, I’m @linalauda
 - 👀 I’m interested in java, c++, python, html, css, js, vue and more...
 - 🌱 I’m currently learning java, python, html, css, js, vue
-- 💞️ I’m not looking to collaborate with anyone right now because I am still studying.
+- 🎓 Currently studying Ethical Hacking (Cisco) and pursuing my B.Sc. in Computer Science (Distance Learning).
+- 💞️ My key interests include:
+Public Key Infrastructure (PKI)
+Cryptography
+Trusted communication systems
+Penetration testing
+Child online protection
 - 📫 How to reach me linakudrina@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I don't like food with garlic
