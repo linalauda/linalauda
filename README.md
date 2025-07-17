@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @linalauda
-- 👀 I’m interested in java, c++, python, html, css, js, vue and more...
-- 🌱 I’m currently learning java, python, html, css, js, vue
+- 👀 I’m interested in java, c/c++, python and more...
+- 🌱 I’m currently learning c/c++, cryptography, java, python
 - 🎓 Currently studying Ethical Hacking (Cisco) and pursuing my B.Sc. in Computer Science (Distance Learning).
 - 💞️ My key interests include:
 Public Key Infrastructure (PKI)
