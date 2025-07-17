@@ -3,10 +3,10 @@
 - 🌱 I’m currently learning c/c++, cryptography, java, python
 - 🎓 Currently studying Ethical Hacking (Cisco) and pursuing my B.Sc. in Computer Science (Distance Learning).
 - 💞️ My key interests include:
-Public Key Infrastructure (PKI)
-Cryptography
-Trusted communication systems
-Penetration testing
+Public Key Infrastructure (PKI),
+Cryptography,
+Trusted communication systems,
+Penetration testing,
 Child online protection
 - 📫 How to reach me linakudrina@gmail.com
 - 😄 Pronouns: she/her
