@@ -8,10 +8,11 @@ Cryptography,
 Trusted communication systems,
 Penetration testing,
 Child online protection
+and of course how AI works :)
 - 📫 How to reach me linakudrina@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I don't like food with garlic
-
+- ⚡ Fun fact: I don't like food with garlic and onion
+- crazy Triathlet:in 
 <!---
 linalauda/linalauda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
