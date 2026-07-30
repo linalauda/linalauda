@@ -8,7 +8,7 @@ Cryptography,
 Trusted communication systems,
 Penetration testing,
 Child online protection
-and of course how AI works :)
+AI 
 - 📫 How to reach me linakudrina@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I don't like food with garlic and onion
